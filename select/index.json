@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "五等分の気持ち",
+  "base_artist": "中野家の五つ子",
+  "createdAt": "2026-03-25T19:46:34.143520Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "五等分の気持ち",
+      "artist": "中野家の五つ子(花澤香菜・竹達彩奈・伊藤美来・佐倉綾音・水瀬いのり)",
+      "has_synced": true,
+      "path": "select/01_五等分の気持ち_中野家の五つ子(花澤香菜・竹達彩奈・伊藤美来・佐倉綾音・水瀬いのり).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "五等分の気持ち TV EDIT",
+      "artist": "中野家の五つ子(花澤香菜・竹達彩奈・伊藤美来・佐倉綾音・水瀬いのり)",
+      "has_synced": false,
+      "path": "select/02_五等分の気持ち_TV_EDIT_中野家の五つ子(花澤香菜・竹達彩奈・伊藤美来・佐倉綾音・水瀬いのり).txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "五等分の気持ち",
+      "artist": "中野家の五つ子",
+      "has_synced": true,
+      "path": "select/03_五等分の気持ち_中野家の五つ子.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "五等分の気持ち (TV EDIT)",
+      "artist": "中野家の五つ子",
+      "has_synced": false,
+      "path": "select/04_五等分の気持ち_(TV_EDIT)_中野家の五つ子.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "五等分の気持ち (インストゥルメンタル)",
+      "artist": "中野家の五つ子",
+      "has_synced": true,
+      "path": "select/05_五等分の気持ち_(インストゥルメンタル)_中野家の五つ子.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "五等分の気持ち",
+      "artist": "中野家の五つ子(花澤香菜・竹達彩奈・伊藤美来・佐倉綾音・水瀬いのり)",
+      "has_synced": true,
+      "path": "select/06_五等分の気持ち_中野家の五つ子(花澤香菜・竹達彩奈・伊藤美来・佐倉綾音・水瀬いのり).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "五等分の気持ち (インストゥルメンタル)",
+      "artist": "中野家の五つ子(花澤香菜・竹達彩奈・伊藤美来・佐倉綾音・水瀬いのり)",
+      "has_synced": true,
+      "path": "select/07_五等分の気持ち_(インストゥルメンタル)_中野家の五つ子(花澤香菜・竹達彩奈・伊藤美来・佐倉綾音・水瀬いのり).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "五等分の気持ち (PandaBoY Five Flowers Dance Edit)",
+      "artist": "中野家の五つ子",
+      "has_synced": true,
+      "path": "select/08_五等分の気持ち_(PandaBoY_Five_Flowers_Dance_Edit)_中野家の五つ子.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "五等分の気持ち(TV EDIT)",
+      "artist": "Nakano-ke no Itsutsugo (Hanazawa Kana & Taketatsu Ayana & Itou Miku & Sakura Ayane & Minase Inori)",
+      "has_synced": false,
+      "path": "select/09_五等分の気持ち(TV_EDIT)_Nakano-ke_no_Itsutsugo_(Hanazawa_Kana_&_Taketatsu_Ayana_&_Itou_Miku_&_Sakura_Aya.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "五等分の気持ち",
+      "artist": "中野家の五つ子",
+      "has_synced": true,
+      "path": "select/10_五等分の気持ち_中野家の五つ子.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "五等分の気持ち - PandaBoY Five Flowers Dance Edit",
+      "artist": "中野家の五つ子",
+      "has_synced": true,
+      "path": "select/11_五等分の気持ち_-_PandaBoY_Five_Flowers_Dance_Edit_中野家の五つ子.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "五等分の気持ち TV EDIT",
+      "artist": "中野家の五つ子",
+      "has_synced": false,
+      "path": "select/12_五等分の気持ち_TV_EDIT_中野家の五つ子.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "五等分の気持ち インストゥルメンタル",
+      "artist": "中野家の五つ子",
+      "has_synced": true,
+      "path": "select/13_五等分の気持ち_インストゥルメンタル_中野家の五つ子.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "五等分の気持ち",
+      "artist": "中野家の五つ子",
+      "has_synced": false,
+      "path": "select/pl_01_五等分の気持ち_中野家の五つ子.txt"
+    }
+  ]
+}
